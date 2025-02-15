@@ -10,23 +10,23 @@ Desenvolva uma aplicação de e-commerce para a venda de bicicletas. A aplicaç�
 
 ## 📌 Requisitos
 
-- [ ] **Catálogo de bicicletas**
+- [x] **Catálogo de bicicletas**
 
   - [x] Listagem com imagem, nome, preço e descrição.
   - [x] Paginação.
   - [x] Filtro por marca.
   - [x] Ordenação por menor preço ou maior preço.
-  - [ ] Busca por nome.
+  - [x] Busca por nome.
 
-- [ ] **Página de detalhes da bicicleta**
+- [x] **Página de detalhes da bicicleta**
 
   - [x] Imagem da bicicleta.
   - [x] Nome, preço e descrição completa.
-  - [ ] Opção de adicionar ao carrinho.
+  - [x] Opção de adicionar ao carrinho.
 
-- [ ] **Carrinho de compras**
-  - [ ] Adicionar e remover produtos.
-  - [ ] Visualizar e atualizar quantidade de itens no carrinho.
+- [x] **Carrinho de compras**
+  - [x] Adicionar e remover produtos.
+  - [x] Visualizar e atualizar quantidade de itens no carrinho.
 
 ## 🛠️ Ferramentas e Tecnologias (Obrigatórias)
 
